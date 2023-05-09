@@ -4,62 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c56b906-485a-48b0-ac49-bce199554a7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/modulo03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__nrepl_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_clojure_1_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_core_specs_alpha_0_2_62.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_spec_alpha_0_3_218.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_nrepl_incomplete_0_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/.idea/ClojureProjectResolveSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/.idea/libraries/Leiningen__nrepl_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/.idea/libraries/Leiningen__org_clojure_clojure_1_11_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/.idea/libraries/Leiningen__org_clojure_core_specs_alpha_0_2_62.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/.idea/libraries/Leiningen__org_clojure_spec_alpha_0_3_218.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/.idea/libraries/Leiningen__org_nrepl_incomplete_0_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/aula2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/doc/intro.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/project.clj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/src/aula2/areas.clj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/src/aula2/core.clj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula2/test/aula2/core_test.clj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/.idea/ClojureProjectResolveSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/.idea/libraries/Leiningen__nrepl_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/.idea/libraries/Leiningen__org_clojure_clojure_1_11_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/.idea/libraries/Leiningen__org_clojure_core_specs_alpha_0_2_62.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/.idea/libraries/Leiningen__org_clojure_spec_alpha_0_3_218.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/.idea/libraries/Leiningen__org_nrepl_incomplete_0_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/aula3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/doc/intro.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/project.clj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/src/aula3/confidential.clj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/src/aula3/core.clj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula3/test/aula3/core_test.clj" beforeDir="false" />
-    </list>
+    <list default="true" id="9c56b906-485a-48b0-ac49-bce199554a7d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +34,7 @@
       <recent name="$PROJECT_DIR$/src/aula2" />
     </key>
   </component>
-  <component name="ReplState" timestamp="1683632477981">{:repl-history {:ide [], :local [{:command &quot;(write-in-file names)&quot;, :offset 21, :ns &quot;aulas.aula4.main&quot;}], :remote []}}</component>
+  <component name="ReplState" timestamp="1683632794450">{:repl-history {:ide [], :local [{:command &quot;(write-in-file names)&quot;, :offset 21, :ns &quot;aulas.aula4.main&quot;}], :remote []}}</component>
   <component name="RunManager">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
