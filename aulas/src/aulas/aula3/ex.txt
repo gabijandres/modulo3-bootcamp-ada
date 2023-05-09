@@ -1,0 +1,7 @@
+1 - Criar uma função que recebe um nome e retorne uma saudação
+2 - Criar uma função que, se receber um número, multiplica-o com ele mesmo, se receber dois, multiplica o primeiro com o segundo
+3 - Criar uma função que, recebe um número inteiro e multiplica com os restantes números passados
+pela função
+4 - criar uma função que retorna outra. Recebe uma mensagem de saudação onde a mensagem é usada
+na próxima função, que receberá o nome e exibirá a mensagem de saudação + nome
+5 - criar uma função privada.
