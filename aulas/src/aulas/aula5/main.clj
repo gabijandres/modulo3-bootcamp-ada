@@ -37,4 +37,4 @@
   (as-> values-map m
         (reduce sum 0 m)
         (/ m (count values-map))
-        (assoc values-map :media m)))
+        (assoc values-map :average m)))
