@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c56b906-485a-48b0-ac49-bce199554a7d" name="Changes" comment="" />
+    <list default="true" id="9c56b906-485a-48b0-ac49-bce199554a7d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/aulas/aula5/main.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/aula5/main.clj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

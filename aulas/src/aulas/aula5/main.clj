@@ -31,7 +31,7 @@
        (catch Exception _
          (throw (Exception. (str "The key " (str (key item)) " is not a number."))))))
 
-(defn adiciona-media
+(defn add-average
   "Given a map with numerical values, calculates these values average and add it to the map"
   [values-map]
   (as-> values-map m
