@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c56b906-485a-48b0-ac49-bce199554a7d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/aulas/aula5/main.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/aula5/main.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gabriele.jandres/dev/nu/bootcamp/modulo03/aulas&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -36,7 +37,7 @@
       <recent name="$PROJECT_DIR$/src/aula2" />
     </key>
   </component>
-  <component name="ReplState" timestamp="1683753248928">{:repl-history {:ide [], :local [{:command &quot;(write-in-file names)&quot;, :offset 21, :ns &quot;aulas.aula4.main&quot;}], :remote []}}</component>
+  <component name="ReplState" timestamp="1684236611530">{:repl-history {:ide [], :local [{:command &quot;(write-in-file names)&quot;, :offset 21, :ns &quot;aulas.aula4.main&quot;}], :remote []}}</component>
   <component name="RunManager">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
