@@ -12,6 +12,12 @@
           (odd? num) (conj "odd")
           (= num 0) (conj "zero")))
 
+; Testes
+(println "Exercise 1")
+(println (describe-number 5))
+
+(println "")
+
 (defn generate-salutation
   "Generates a greeting, given a greeting and any name"
   [salutation name]
@@ -23,6 +29,12 @@
   (as-> names n
         (map (partial generate-salutation salutation) n)
         (map #(clojure.string/upper-case %) n)))
+
+; Testes
+(println "Exercise 2")
+(println (salute-everyone "Hi" names))
+
+(println "")
 
 (defn sum
   "Given a number and a map item, calculates the sum of the number and the value of that map item or throw an exception if the value is not numerical"
@@ -38,3 +50,9 @@
         (reduce sum 0 m)
         (/ m (count values-map))
         (assoc values-map :average m)))
+
+; Testes
+(println "Exercise 3")
+(println (add-average values-map))
+
+(println "")

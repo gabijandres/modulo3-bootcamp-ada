@@ -1,8 +1,11 @@
 (ns aulas.aula6.main)
 
-; Q1
-
 (def numbers [1 2 3 4])
+(def relogio (java.util.Date.))
+; (def relogio2 (java.time.LocalDateTime/now))
+(def fruits-list ["banana" "apple"])
+
+; Q1
 
 (defn calculateAverage
   "Calculate and return the average between the numbers in list"
@@ -48,9 +51,6 @@
 
 ; Q4
 
-(def relogio (java.util.Date.))
-; (def relogio2 (java.time.LocalDateTime/now))
-
 (defn getDate
   "Given a clock instance, return the actual date and hour"
   [relogio]
@@ -64,8 +64,6 @@
 (println "")
 
 ; Q5
-
-(def fruits-list ["banana" "apple"])
 
 (defn addElement
   "Add element in the list and return the new generated list"
