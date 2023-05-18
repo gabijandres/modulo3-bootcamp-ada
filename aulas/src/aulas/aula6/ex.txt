@@ -4,7 +4,7 @@
 
 3 - Escreva uma função chamada calcularDobroDaSoma, que recebe dois números inteiros, calcula a soma deles e retorna o dobro da soma. Use apenas funções puras para implementar essa lógica, evitando efeitos colaterais.
 
-4 - Escreva uma função chamada obterDataHoraAtual, que retorna a data e a hora atuais. No entanto, para garantir o isolamento, a função deve receber uma instância de relógio como parâmetro. Dessa forma, você pode injetar um relógio específico nos seus testes e manter a função principal como impura.
+4 - Escreva uma função chamada obterDataHoraAtual, que retorna a data e a hora atuais. No entanto, para garantir o isolamento, a função deve receber uma instância de relógio como parâmetro. Dessa forma, você pode injetar um relógio específico nos seus Tests e manter a função principal como impura.
 
 5 - Escreva uma função chamada adicionarElemento, que recebe uma lista e um elemento e retorna uma nova lista com o elemento adicionado ao final. Certifique-se de que a função não modifique a lista original, mas sim crie uma nova lista com o elemento adicionado.
 

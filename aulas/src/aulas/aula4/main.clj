@@ -11,7 +11,7 @@
     "night" "good evening"
     "good morning"))
 
-; Testes
+; Tests
 (println "Exercise 1")
 (println (salutation "morning"))
 
@@ -29,7 +29,7 @@
   [a b]
   (= 1 (mdc a b)))
 
-; Testes
+; Tests
 (println "Exercise 2")
 (println (coprime? 3 5))
 (println (coprime? 3 6))
@@ -43,7 +43,7 @@
        (catch Exception _
          (throw (Exception. "Wrong data type. Must be a number. ")))))
 
-; Testes
+; Tests
 (println "Exercise 3")
 (println (sum 3 5))
 ; (println (sum 3 "1"))
@@ -60,7 +60,7 @@
                                                (.write wrtr (get names i))
                                                (.write wrtr (str (get names i) ", "))))))))
 
-; Testes
+; Tests
 ; (println "Exercise 4")
 (write-in-file names)
 

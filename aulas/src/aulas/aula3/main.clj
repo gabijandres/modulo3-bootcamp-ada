@@ -7,7 +7,7 @@
   [name]
   (str "Welcome " name))
 
-; Testes
+; Tests
 (println "Exercise 1")
 (println (salutation "Gabi"))
 
@@ -20,7 +20,7 @@
   ([num1 num2]
    (* num1 num2)))
 
-; Testes
+; Tests
 (println "Exercise 2")
 (println (multiply 2))
 (println (multiply 2 3))
@@ -37,7 +37,7 @@
   [num & rest-nums]
   (map #(* % num) rest-nums))
 
-; Testes
+; Tests
 (println "Exercise 3")
 (println (str "Reduce version: " (multiply-reduce 2 3 4 5)))
 (print "Map version: ")
@@ -51,7 +51,7 @@
   (fn [name]
     (str salutation " " name)))
 
-; Testes
+; Tests
 (println "Exercise 5")
 (println ((create-salutation "Hello") "Gabi"))
 

@@ -8,6 +8,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aulas/aula3/main.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/aula3/main.clj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/aulas/aula4/main.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/aula4/main.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulas/aula5/main.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/aula5/main.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulas/aula6/ex.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/aula6/ex.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulas/aula6/main.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/aula6/main.clj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +42,7 @@
       <recent name="$PROJECT_DIR$/src/aula2" />
     </key>
   </component>
-  <component name="ReplState" timestamp="1684238126771">{:repl-history {:ide [], :local [{:command &quot;(write-in-file names)&quot;, :offset 21, :ns &quot;aulas.aula4.main&quot;}], :remote []}}</component>
+  <component name="ReplState" timestamp="1684240662169">{:repl-history {:ide [], :local [{:command &quot;(write-in-file names)&quot;, :offset 21, :ns &quot;aulas.aula4.main&quot;}], :remote []}}</component>
   <component name="RunManager">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />

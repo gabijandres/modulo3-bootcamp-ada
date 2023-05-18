@@ -15,12 +15,14 @@
           (apply + n)
           (/ (double n) (count numbers)))))
 
-; Testes
+; Tests
 (println "Exercise 1")
 (println (calculateAverage numbers))
 (println (calculateAverage []))
 
 (println "")
+
+(get )
 
 ; Q2
 
@@ -30,7 +32,7 @@
   (println "Type something: ")
   (read-line))
 
-; Testes
+; Tests
 (println "Exercise 2")
 (println (str "The input was: " (readFromConsole)))
 
@@ -43,7 +45,7 @@
   [num1 num2]
   ((comp #(* 2 %) +) num1 num2))
 
-; Testes
+; Tests
 (println "Exercise 3")
 (println (calculateTwiceSum 2 5))
 
@@ -56,7 +58,7 @@
   [relogio]
   (.toString relogio))
 
-; Testes
+; Tests
 (println "Exercise 4")
 (println (getDate relogio))
 ; (println (getDate relogio2))
@@ -70,7 +72,7 @@
   [original-list element]
   (conj original-list element))
 
-; Testes
+; Tests
 (println "Exercise 5")
 (println (str "Original list: " fruits-list))
 (println (str "New list: " (addElement fruits-list "watermellon")))
@@ -88,6 +90,8 @@
     (catch Exception _
       (throw (Exception. "There was an error writing in file")))))
 
-; Testes
+; Tests
 (println "Exercise 6")
 (println (write-in-file "file.txt" "Test Q6"))
+
+(filter )

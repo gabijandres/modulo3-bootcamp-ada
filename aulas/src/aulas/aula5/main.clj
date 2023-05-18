@@ -12,7 +12,7 @@
           (odd? num) (conj "odd")
           (= num 0) (conj "zero")))
 
-; Testes
+; Tests
 (println "Exercise 1")
 (println (describe-number 5))
 
@@ -30,7 +30,7 @@
         (map (partial generate-salutation salutation) n)
         (map #(clojure.string/upper-case %) n)))
 
-; Testes
+; Tests
 (println "Exercise 2")
 (println (salute-everyone "Hi" names))
 
@@ -51,7 +51,7 @@
         (/ m (count values-map))
         (assoc values-map :average m)))
 
-; Testes
+; Tests
 (println "Exercise 3")
 (println (add-average values-map))
 
